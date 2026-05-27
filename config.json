@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvrocess",
+        "uuid": 3533261,
+        "checksum": "j8lhz4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
